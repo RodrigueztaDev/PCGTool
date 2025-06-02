@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PCGTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\PCGToolEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\PCGTool.init.gen.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\PCGToolGameModeBase.gen.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\PCGTool.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\PCGToolGameModeBase.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\PerModuleInline.gen.cpp.obj"
+"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\Default.rc2.res"
+/OUT:"C:\Users\kevin\Documents\GitHub\PCGTool\PCGTool\Intermediate\Build\Win64\x64\UnrealEditor\Development\PCGTool\UnrealEditor-PCGTool.lib"

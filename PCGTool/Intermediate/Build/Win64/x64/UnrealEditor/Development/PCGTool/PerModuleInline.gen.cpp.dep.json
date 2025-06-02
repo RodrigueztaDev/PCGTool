@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pcgtool\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\x64\\pcgtooleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pcgtool\\definitions.pcgtool.h",
+            "e:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

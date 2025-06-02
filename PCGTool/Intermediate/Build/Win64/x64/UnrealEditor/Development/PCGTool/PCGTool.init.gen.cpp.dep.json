@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\unrealeditor\\inc\\pcgtool\\uht\\pcgtool.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\x64\\pcgtooleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kevin\\documents\\github\\pcgtool\\pcgtool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pcgtool\\definitions.pcgtool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PCGTool",
+			"Path": "..\\Source\\PCGTool.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PCGToolEditor",
+			"Path": "..\\Source\\PCGToolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
