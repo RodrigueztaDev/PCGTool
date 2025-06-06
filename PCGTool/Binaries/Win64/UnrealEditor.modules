@@ -1,7 +1,3 @@
-{
-	"BuildId": "37670630",
-	"Modules": 
-	{
-		"PCGTool": "UnrealEditor-PCGTool.dll"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d11fd111d7985f50189d0fb4b639be842fe640f3861076d47e3a39302697ac
+size 92

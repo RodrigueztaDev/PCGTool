@@ -1,14 +1,3 @@
-{
-	"Targets": [
-		{
-			"Name": "PCGTool",
-			"Path": "..\\Source\\PCGTool.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "PCGToolEditor",
-			"Path": "..\\Source\\PCGToolEditor.Target.cs",
-			"Type": "Editor"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5860197db78c7d64ed05b702c9c85fc2b17df6cc692c93de6a15a7e51cec00a7
+size 232

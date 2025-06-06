@@ -1,8 +1,3 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\kevin\\Documents\\GitHub\\PCGTool\\PCGTool\\Source\\PCGTool\\PCGTool.Build.cs",
-		"C:\\Users\\kevin\\Documents\\GitHub\\PCGTool\\PCGTool\\Source\\PCGTool.Target.cs",
-		"C:\\Users\\kevin\\Documents\\GitHub\\PCGTool\\PCGTool\\Source\\PCGToolEditor.Target.cs"
-	],
-	"EngineVersion": "5.5.4"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b44eeb8fd5aab18f4186fb0b5982e6ca11a9882ab48f573eb2ad75502588ab
+size 329
